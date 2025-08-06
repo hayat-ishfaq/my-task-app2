@@ -77,13 +77,7 @@
 - ☁ Cloud backup support
 - 🧠 AI-based smart notes summarization
 
----
-
-## 🤝 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/M-Attaullah) [*M-Attaullah*](https://github.com/M-Attaullah)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-attaullah-705764333/) [*Muhammad Attaullah*](https://www.linkedin.com/in/muhammad-attaullah-705764333/)
-
+--
 ---
 
 > 🛠️ *Note:*  This project was developed as part of an internship task to demonstrate skills in Firebase integration, Flutter UI/UX design, and scalable app architecture using Provider and MVVM.
